@@ -17,7 +17,7 @@ This project showcases an interactive **HR Analytics Dashboard** built using **T
 
 
 ## 📸 Dashboard Preview
-![HR Dashboard Preview](./hr-dashboard-preview.png)
+![HR Dashboard Preview](https://github.com/Ashish-0941/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png)
 
 ## 🔗 Tableau Public Link 
 [🔍 View Interactive Dashboard](https://public.tableau.com/app/profile/ashish.kashyap3834/viz/HRAnalytics_17521021383360/HRAnalyticsDashboard?publish=yes)
